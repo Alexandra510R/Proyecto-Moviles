@@ -16,12 +16,12 @@ La aplicación está organizada en tres secciones principales, cada una accesibl
 
 __Inicio:__ Realiza una bienvenida a la aplicación, da una descripción sobre Colombia y sus recetas, acompañada de un video musical colombiano que resalta la riqueza cultural y las bellezas de nuestra región.
 
-![Texto alternativo](imagenes/inicio.png "Recetario")
+![Texto alternativo](imagenes/inicio.jpg "Recetario")
 
 __Recetario:__ Ofrece tres recetas tradicionales colombianas, con el listado detallado de ingredientes y un video explicativo que guía paso a paso en la preparación de cada plato.
 
-![Texto alternativo](imagenes/recetas.png "Recetario")
+![Texto alternativo](imagenes/recetas.jpg "Recetario")
 
 __Formulario:__ Contiene un espacio de registro que permite a los usuarios inscribirse para seguir recibiendo nuevos recetarios o, si lo desean, compartir sus propios conocimientos gastronómicos.
 
-![Texto alternativo](imagenes/registro.png "Registro")
+![Texto alternativo](imagenes/registro.jpg "Registro")
